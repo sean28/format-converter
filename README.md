@@ -30,3 +30,5 @@ The scripts usage is as follows:
 ```
 python python smiles_to_2dsdf.py xx.xlsx
 ```
+
+<div style="text-align: justify">This is an online format conversion tool that supports interoperability between GROMACS and AMBER. It also allows generating small-molecule PDB files directly from SMILES strings. Click <a href="https://convert.sean28299.dpdns.org">Here</a> to use (The server is activated intermittently to save energy).</div>
